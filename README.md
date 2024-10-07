@@ -83,3 +83,8 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+
+
+brew install pkg-config pixman cairo pango
+
+brew install pkg-config cairo pango libpng jpeg giflib librsvg
